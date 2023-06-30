@@ -25,6 +25,7 @@ terraform destroy
 
 # Configure YBA
 
+Just setup on-prem provider and use the set ssh user as `ybadmin` 
 
 
 # Terraform docs
